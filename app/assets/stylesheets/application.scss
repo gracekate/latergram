@@ -10,7 +10,7 @@ h1 {
 	font-size: 50px;
 }
 .lead{
-	font-size: 28px;
+	font-size: 28px; margin-bottom: 0px;
 }
 .images {
 	margin-top: 80px;
@@ -28,10 +28,14 @@ h1 {
 	font-size: 20px; background-color: #f0efec;
 }
 .thumbnail{
-	border: 0px solid #fff; padding: 0px;
+	border: 0px solid #fff; padding: 0px; margin-bottom: 0px;
 }
 .btn-lg{
 	font-size: 26px; padding: 10px 46px; 
+}
+.col-md-3{
+	padding-left: 0px;
+    padding-right: 0px;
 }
 footer {
   padding: 15px 0;
